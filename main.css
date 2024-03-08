@@ -49,6 +49,8 @@ li {
 
 .key h1 {
     font-size: 2.5rem;
+    padding-top: 56px;
+    padding-left: 34px;
 }
 
 /* NAV SECTION */
@@ -205,6 +207,7 @@ color: #fff;
  .coffee_menu_content {
     width: 80%;
     padding: 10px;
+    marging: 20px
  }
 
 .info {
