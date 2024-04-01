@@ -49,8 +49,11 @@ li {
 
 .key h1 {
     font-size: 2.5rem;
-    padding-top: 56px;
-    padding-left: 34px;
+    padding-top: 70px;
+    padding-left: 500px;
+}
+.key p {
+    padding-left: 500px;
 }
 
 /* NAV SECTION */
